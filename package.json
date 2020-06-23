@@ -1,0 +1,17 @@
+{
+    "name": "wapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "miraj",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "group-array": "^1.0.0",
+        "wappalyzer": "^6.0.12"
+    }
+}
