@@ -3,7 +3,9 @@ Identify web technology in node
 
 <code>
 npm install
+</code>
+<code>
 npm start
 </code>
 
-//get localhost:3000/?url=google.com
+http://localhost:3000/?url=google.com
