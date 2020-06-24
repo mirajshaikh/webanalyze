@@ -1,0 +1,111 @@
+{
+    "urls": {
+        "https://mirajshaikh.com/": {
+            "status": 200
+        }
+    },
+    "applications": [{
+            "name": "WordPress",
+            "confidence": 100,
+            "version": "5.4.2",
+            "icon": "WordPress.svg",
+            "website": "https://wordpress.org",
+            "cpe": "cpe:/a:wordpress:wordpress",
+            "categories": {
+                "1": "CMS",
+                "11": "Blogs"
+            }
+        },
+        {
+            "name": "Swiper Slider",
+            "confidence": 100,
+            "version": "",
+            "icon": "swiper.svg",
+            "website": "https://swiperjs.com",
+            "cpe": null,
+            "categories": {
+                "19": "Miscellaneous"
+            }
+        },
+        {
+            "name": "Litespeed Cache",
+            "confidence": 100,
+            "version": "",
+            "icon": "litespeed-cache.png",
+            "website": "https://wordpress.org/plugins/litespeed-cache/",
+            "cpe": null,
+            "categories": {
+                "23": "Caching"
+            }
+        },
+        {
+            "name": "PHP",
+            "confidence": 100,
+            "version": "",
+            "icon": "PHP.svg",
+            "website": "http://php.net",
+            "cpe": "cpe:/a:php:php",
+            "categories": {
+                "27": "Programming languages"
+            }
+        },
+        {
+            "name": "Cloudflare",
+            "confidence": 100,
+            "version": "",
+            "icon": "CloudFlare.svg",
+            "website": "http://www.cloudflare.com",
+            "cpe": null,
+            "categories": {
+                "31": "CDN"
+            }
+        },
+        {
+            "name": "MySQL",
+            "confidence": 100,
+            "version": "",
+            "icon": "MySQL.svg",
+            "website": "http://mysql.com",
+            "cpe": "cpe:/a:mysql:mysql",
+            "categories": {
+                "34": "Databases"
+            }
+        },
+        {
+            "name": "Elementor",
+            "confidence": 100,
+            "version": "2.9.12",
+            "icon": "Elementor.png",
+            "website": "https://elementor.com",
+            "cpe": null,
+            "categories": {
+                "51": "Page builders"
+            }
+        },
+        {
+            "name": "jQuery Migrate",
+            "confidence": 100,
+            "version": "1.4.1",
+            "icon": "jQuery.svg",
+            "website": "https://github.com/jquery/jquery-migrate",
+            "cpe": null,
+            "categories": {
+                "59": "JavaScript libraries"
+            }
+        },
+        {
+            "name": "jQuery",
+            "confidence": 100,
+            "version": "1.12.4",
+            "icon": "jQuery.svg",
+            "website": "https://jquery.com",
+            "cpe": "cpe:/a:jquery:jquery",
+            "categories": {
+                "59": "JavaScript libraries"
+            }
+        }
+    ],
+    "meta": {
+        "language": "en-US"
+    }
+}
